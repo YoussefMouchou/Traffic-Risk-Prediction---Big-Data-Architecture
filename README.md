@@ -171,7 +171,9 @@ Create dashboards using the traffic_predictions table for live analytics.
 ## 📌 Future Work / Improvements
 
 -Integrate deep learning models.
+
 -Optimize performance with Docker/Kubernetes.
+
 -Enhance scalability for larger datasets.
 
 ---
