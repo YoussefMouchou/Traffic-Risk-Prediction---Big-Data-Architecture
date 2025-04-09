@@ -170,10 +170,9 @@ Create dashboards using the traffic_predictions table for live analytics.
 
 ## 📌 Future Work / Improvements
 
-- Add support for multi-city predictions
-- Implement alert system for high-risk zones
-- Deploy with Docker/Kubernetes
-- Optimize ML model with hyperparameter tuning
+-Integrate deep learning models.
+-Optimize performance with Docker/Kubernetes.
+-Enhance scalability for larger datasets.
 
 ---
 
